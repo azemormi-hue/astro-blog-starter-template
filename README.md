@@ -17,6 +17,7 @@ Features:
 - ✅ RSS Feed support
 - ✅ Markdown & MDX support
 - ✅ Built-in Observability logging
+- ✅ User ban management system (see [docs/BAN_SYSTEM.md](docs/BAN_SYSTEM.md))
 
 <!-- dash-content-end -->
 
